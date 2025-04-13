@@ -1,2 +1,3 @@
 This is a.txt from C1
 Change from C4
+Another change from C6
